@@ -7,7 +7,9 @@ This repository stores my course work on the Data Science Coursera module, "Gett
 
 Raw Data
 ------------------
-The following items are available:
+The following items are available from The "Human Activity Recognition Using Smartphones Data Set" originally published here:
+
+http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 Unlabeled features (561) contained in X_test.txt, X_train.txt. 
 Activity labels contained in files y_test.txt, y_train.txt.
