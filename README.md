@@ -24,4 +24,4 @@ Note: In order for the script initialization to be successful, the data must be 
 
 Code Book
 -------------------
-The uploaded CodeBook.md file outlines the task execution.
+The uploaded CodeBook.md file outlines the data specifics and provides notes on task execution.
